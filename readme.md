@@ -19,4 +19,7 @@ Repository Structure:
 
 index.html: Main entry point of the website.
 style.css: Contains all CSS styling rules.
-assets/: Folder for images and other assets.
+assets/: Folder for images and other assets
+
+
+
