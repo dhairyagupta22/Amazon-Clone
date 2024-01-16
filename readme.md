@@ -21,5 +21,7 @@ index.html: Main entry point of the website.
 style.css: Contains all CSS styling rules.
 assets/: Folder for images and other assets
 
+![image](https://github.com/dhairyagupta22/Amazon-Clone/assets/133130740/33400fd0-5014-4329-bd34-1091287c02b5)
+
 
 
