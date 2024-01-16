@@ -1,0 +1,169 @@
+*{
+    border:0px;
+    margin:0;
+    border:border-box;    
+}
+.header{
+    height:60px;
+    background-color:#131921;
+    display: flex;
+    align-items:center;
+     justify-content: space-evenly; 
+}
+.all_logo{
+    height:50ps;
+    width:100px; 
+      
+}
+.amazon_image{
+    height:45px;
+    width:100%;
+    background-size:cover;
+    background-image:url("amazon_logo.png")   
+}
+.border{
+    border: 1px transparent white; 
+}
+.border:hover{
+    border: 2px solid white;
+}
+.hello{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.9rem;
+    margin-left:15px    
+}
+.address_2{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.9rem;
+    margin: 2px;
+}
+.icon{
+    display : flex;
+    color:white;
+}
+/* seach box*/
+.nav-search{
+    display:flex;
+    justify-content:space-evenly;
+    background-color:pink;
+    width:620px;
+    height:40px;
+    border-radius:4px;
+}
+.search-search{
+    background-color:#f3f3f3;
+    width:50px;
+    text-align:center;
+    border-top-left-radius:4px;
+    border-bottom-left-radius:4px;
+    border:none;
+}
+.search-input{
+    width:100%;
+    font-size:1rem;
+}
+.search-icon{
+    width:50px;
+    display:flex;
+     justify-content:center;   /*horizontal center*/
+    align-items:center;        /*vertical center*/
+    background-color:#f3a847;
+}
+.yellowborder{
+    border:2px transparent black;
+}
+.yellowborder:hover{
+    border:2px solid orangered;
+}
+.lang{
+    background-color:#f3f3f3;
+    width:60px;
+    text-align:center;
+    border:none;
+}
+.hello{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.sign{
+    background-color:#131921;
+    color:white;
+    margin:0px;
+}
+.return{
+    color:white;
+}
+.order{
+    color:white;
+    font-weight: bold;
+    font-size:18px
+}
+.draw{
+    color:white;
+    display:flex;
+    padding: 10px;
+}
+.cart{
+    color:white;
+    font-size:18px
+}
+.panel{
+    width:6000px;
+    height:35px;
+    background-color:#232f3e;
+    color:white;
+    display:flex;
+    align-items:center;
+    justify-content:space space-evenly ;
+}
+.names p{
+    display:inline;
+    margin-left:25px;
+    padding:4px;
+}
+.names{
+    font-size:0.85
+}  
+.allp{
+    color:white;
+    padding:5px;
+    text-align: center;
+    justify-content: center;
+    margin-left:10px; 
+}
+.end{
+    margin-left:200px;
+    padding:4px;
+}
+.hero{
+    height:300px;
+    background-size:cover;
+    background-image:url("hero_img.jpg")
+}
+.shop-section{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: #e3e6e6;
+}
+.box{
+    height:400px;
+    width:23%;
+    height:400px;
+    background-color: white ;
+    padding:20px 0px 15px ;
+    margin-top:15px;
+}
+.box-img{
+    height:300px;
+    background-size:cover;
+    margin-top:1rem ;
+    margin-bottom: 1rem;
+}
+.box-content{
+    margin-left:1rem;
+    margin-right:1rem;
+}
+.box-content p{
+    color:#007185;
+}
